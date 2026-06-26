@@ -42,7 +42,6 @@ python -m venv venv
 
 jalankan `requirements.txt`:
 
-txt
 streamlit
 pandas
 numpy
