@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+pyspark==3.5.1
+pymongo
+psycopg2-binary
+sqlalchemy
+kaleido
+jupyter
+python-dotenv
